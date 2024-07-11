@@ -26,8 +26,8 @@ The Question Bank Management System is a Java-based application designed to help
 │   ├── MatchTypeQuestion.java
 │   ├── Module.java
 │   ├── Person.java
-│   ├── Role.java
-│   └── README.md
+│   └── Role.java
+└── README.md
 ```
 
 ### Application.java
