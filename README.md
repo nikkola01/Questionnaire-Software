@@ -17,7 +17,7 @@ The Question Bank Management System is a Java-based application designed to help
 
 ## Project Structure
 
-\`\`\`plaintext
+```plaintext
 ├── src
 │   ├── Application.java
 │   ├── Bank.java
@@ -28,7 +28,7 @@ The Question Bank Management System is a Java-based application designed to help
 │   ├── Person.java
 │   ├── Role.java
 │   └── README.md
-\`\`\`
+```
 
 ### Application.java
 Manages the main logic and user interaction of the application.
@@ -70,17 +70,17 @@ Enumerates different roles users can have within the system.
 
 To run this project, you need to have Java installed on your system. Clone the repository and compile the Java files:
 
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/question-bank-management-system.git
 cd question-bank-management-system/src
 javac *.java
-\`\`\`
+```
 
 Run the application:
 
-\`\`\`bash
+```bash
 java Application
-\`\`\`
+```
 
 ## Usage
 
